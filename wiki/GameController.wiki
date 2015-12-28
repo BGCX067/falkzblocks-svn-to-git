@@ -1,0 +1,5 @@
+p = PAUSE
+
+up key = rotate the piece
+
+righ and left = move the piece right and left
